@@ -1,0 +1,104 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  font-family: system-ui;
+  background-color: rgb(168, 167, 170);
+  font-family: sans-serif;
+}
+
+.main-container {
+  height: 1250px;
+  width: 1100px;
+  margin: 20px auto;
+  background-color: white;
+  box-shadow: 5px 7px 15px 5px #b9b6b6;
+}
+
+.pics {
+  border: 4px solid rgb(255, 255, 255);
+  width: 150px;
+  border-radius: 20%;
+}
+
+.top-container {
+  background-image: linear-gradient(to right, #09203f, #537895);
+  text-align: center;
+  padding: 20px;
+}
+
+.p1 {
+  color: white;
+  font-size: 40px;
+  margin: 0px;
+  margin-top: 10px;
+  font-weight: bold;
+}
+
+.p2 {
+  color: rgb(45, 44, 44);
+  margin-bottom: -5px;
+  font-size: 20px;
+}
+
+.heading {
+  color: black;
+  font-size: 30px;
+  font-weight: 600;
+  margin-bottom: 10px;
+  /* width: 35%; */
+}
+
+.left-side {
+  background-color: rgb(229, 228, 226);
+  float: left;
+  width: 30%;
+  height: 75.7%;
+}
+
+.container-left {
+  padding: 10px;
+  padding-left: 30px;
+}
+
+.skills {
+  margin-bottom: 5px;
+  margin-left: -20px;
+}
+
+.skills li {
+  padding: 5px;
+}
+
+.skills li span {
+  color: rgb(45, 44, 44);
+  font-size: 20px;
+}
+
+.line {
+  border-left: 1px solid #c7c7c7;
+  height: 75.7%;
+  width: 2%;
+  float: left;
+}
+
+.right-side {
+  width: 62%;
+  float: left;
+}
+
+.p3 {
+  font-size: 25px;
+  color: rgb(91, 26, 26);
+  font-weight: 500;
+}
+
+.list li {
+  margin-bottom: 10px;
+}
+
+/* #edu {
+  font-weight: bold;
+  margin-top: 30px;
+  padding-left: 10px;
+  margin-left: 5px;
+} */
